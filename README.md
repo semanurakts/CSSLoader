@@ -34,7 +34,7 @@ CSS Loader/
 
 1. Projeyi bilgisayarına klonla veya indir:
    ```bash
-   git clone https://github.com/kullaniciadi/css-loader.git
+   git clone https://github.com/semanurakts/CSSLoader.git
 2. `index.html` dosyasını bir tarayıcıda aç.
 3. Ruj ikonlu güzellik temalı yükleme ekranını izle!
 
