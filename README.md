@@ -52,7 +52,7 @@ CSS Loader/
 
 Güzellik temasını yansıtan şık bir yükleniyor animasyonu.
 
-[Proje Önizleme](https://semanurakts.github.io/CSSLoader(index.html))
+[Proje Önizleme](https://semanurakts.github.io/CSSLoader/index.html)
 
 <img src="CSSLoader.png" alt="Güzellik Temalı Yükleme Ekranı" width="700">
 
